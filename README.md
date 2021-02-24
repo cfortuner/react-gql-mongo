@@ -1,6 +1,6 @@
 ## Simple React, GraphQL & MongoDB site
 
-Based on tutorial:
+Based on tutorial here, rewritten with react hooks
 https://www.youtube.com/watch?v=ed8SzALpx1Q
 
 mongo db here
